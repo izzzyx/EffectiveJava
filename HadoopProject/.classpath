@@ -51,5 +51,6 @@
 	<classpathentry kind="lib" path="D:/插件/hadoop-1.0.0/hadoop-1.0.0/lib/slf4j-api-1.4.3.jar"/>
 	<classpathentry kind="lib" path="D:/插件/hadoop-1.0.0/hadoop-1.0.0/lib/slf4j-log4j12-1.4.3.jar"/>
 	<classpathentry kind="lib" path="D:/插件/hadoop-1.0.0/hadoop-1.0.0/lib/xmlenc-0.52.jar"/>
+	<classpathentry kind="lib" path="D:/插件/mrunit-1.0.0-hadoop1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
