@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
-<libraryInfo home="C:\Program Files\Java\jdk1.6.0_22\jre" version="1.6.0_22">
+<libraryInfo home="C:\Program Files\Java\jdk1.6.0_22" version="1.6.0_22">
 <bootpath>
 <entry path="C:\Program Files\Java\jdk1.6.0_22\jre\lib\resources.jar"/>
 <entry path="C:\Program Files\Java\jdk1.6.0_22\jre\lib\rt.jar"/>
@@ -18,7 +18,26 @@
 <entry path="C:\Program Files\Java\jdk1.6.0_22\jre\lib\endorsed"/>
 </endorsedDirs>
 </libraryInfo>
-<libraryInfo home="C:\Program Files\Java\jdk1.6.0_22" version="1.6.0_22">
+<libraryInfo home="C:\Program Files\Java\jdk1.8.0_101\jre" version="1.8.0_101">
+<bootpath>
+<entry path="C:\Program Files\Java\jdk1.8.0_101\jre\lib\resources.jar"/>
+<entry path="C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar"/>
+<entry path="C:\Program Files\Java\jdk1.8.0_101\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\Java\jdk1.8.0_101\jre\lib\jsse.jar"/>
+<entry path="C:\Program Files\Java\jdk1.8.0_101\jre\lib\jce.jar"/>
+<entry path="C:\Program Files\Java\jdk1.8.0_101\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files\Java\jdk1.8.0_101\jre\lib\jfr.jar"/>
+<entry path="C:\Program Files\Java\jdk1.8.0_101\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\Java\jdk1.8.0_101\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files\Java\jdk1.6.0_22\jre" version="1.6.0_22">
 <bootpath>
 <entry path="C:\Program Files\Java\jdk1.6.0_22\jre\lib\resources.jar"/>
 <entry path="C:\Program Files\Java\jdk1.6.0_22\jre\lib\rt.jar"/>
